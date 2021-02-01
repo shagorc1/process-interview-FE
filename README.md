@@ -1,4 +1,4 @@
-# Interview Process Frontend FrontEnd
+# Interview Process Frontend
 
 ## Introduction
 ### Git
