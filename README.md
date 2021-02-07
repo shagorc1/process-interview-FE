@@ -9,6 +9,9 @@
 #### Management of methodologies (e.g. scrum, agile, XP, etc)
 - Do you hear about management methodologies? for example `agile, scrum, xp, etc`
 - You work or worked with management methodologies?
+### Work on Team
+- Do you work currently with a Team?
+- If the answer is `Yes`, What role do you play on this Team?
 ## Technologies concepts
 ### Git
 - Do you use any control version? If the answer is `Yes` apply this questions, if not skip
@@ -21,7 +24,6 @@
 8. What is the difference between the `git diff` and `git status`?
 9. What is `squash` and how do you implement it?
 10. What is the difference between `git rebase` and `git merge`?
-11. 
 ### Javascript General
 1. What is Immediately Invoked Function Expressions `(IIFEs)`?
 2. What's a typical use case for `anonymous` functions?
@@ -32,7 +34,8 @@
 7. Which keywords are used to `Handle Exceptions`?
 8. What is `Call Stack`?
 9. Define event `bubbling`?
-10. What is `JSONP`?
+10. What is `CORS`?
+11. If the answer `Yes`, What is `JSONP`?
 ### ES6
 1. List some new features in `ES6`?
 2. What is the difference between `Let` and `Const` Keywords? 
@@ -54,5 +57,22 @@
 - If `Yes`, What libraries, frameworks or tools did you work?
 - Did you hear about Static Code Analysis?
 - If `Yes`, How do you do a Static Code Analysis?
+## Soft Skills
+### Analyze case
+- When you have a project assigned which methods are you used to analyze cases?
+### Self-sufficient
+- When you have an activity to perform you are self-sufficient or ask for help to resolve it?
+### Search the information and directions to folks for resolve tickets
+- 
+### Involve over the project to understand a big picture
+- How much do you involve in the project to understand the big picture from him?
+### Communication and English level
+- How often you practise your English?
+### Enthusiastic to learn new technologies
+- What are you do in your free time?
+- How many courses are you took in the last year?(e.g. english courses, programming couses, etc)
+
+## Principal Question to you
+### You should ask yourself a question if this person will come in and help you with the project, how much time are you going to invest in him?
 
 
