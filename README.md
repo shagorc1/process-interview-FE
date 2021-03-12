@@ -2,11 +2,11 @@
 
 ## Introduction
 ## Switch to English the conversation
-## Experience
 #### Review kind of hard projects and business roles has been implemented - A
 - Tell us about your experience?
-- Can you tell me about your hardest hard project?
+- Can you tell me about your hardest project?
 - Can you tell me about hardest business rule?
+- Questions about Exercises?
 #### Management of methodologies (e.g. scrum, agile, XP, etc) - S
 - Do you know about management methodologies? for example `agile, scrum, xp, etc`
 - Have you work or worked with management methodologies?
@@ -63,17 +63,17 @@ https://repl.it/@irondev/exercise-1 - S
 https://repl.it/@irondev/exercise-2 - A
 https://repl.it/@irondev/exercise-3 - S
 ## Soft Skills
-### Analyze case
+### Analyze case - NO
 - When you have a project assigned which methods are you used to analyze cases?
-### Self-sufficient
+### Self-sufficient - A
 - When you have an activity to perform you are self-sufficient or ask for help to resolve it?
-### Search the information and directions to folks for resolve tickets
-- 
-### Involve over the project to understand a big picture
+### Search the information and directions to folks for resolve tickets - S
+- If you have a blocker with a folk, what do you do to unblock yourself?
+### Involve over the project to understand a big picture - A
 - How much do you involve in the project to understand the big picture from him?
 ### Communication and English level
 - How often you practise your English?
-### Enthusiastic to learn new technologies
+### Enthusiastic to learn new technologies - S
 - What are you do in your free time?
 - How many courses are you took in the last year?(e.g. english courses, programming couses, etc)
 
