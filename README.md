@@ -14,6 +14,9 @@
 - Do you currently work with a Team?
 - How much is bigger your Team?
 - If the answer is `Yes`, What role do you play on this Team?
+### Code Reviews
+- Actually in your company are using code review for PRs?
+- If the answer is `Yes`, Which criteria or standards use to code review?
 ## Technologies concepts
 ### Git - A
 - Do you use any control version? If the answer is `Yes` apply this questions, if not skip
@@ -39,32 +42,43 @@
 10. What is `CORS`?
 11. If the answer `Yes`, What is `JSONP`?
 ### ES6 - A
-1. List some new features in `ES6`?
-2. What is the difference between `Let` and `Const` Keywords? 
-3. What is `Arrow Functions`?
-4. What is `Template Literals`? 
-5. What is `Spread Operator` and some example?
-6. What is a `Promise` and some example?
-7. What is `Destructuring Assignment`?
-### CSS - S
-1. What is a `CSS's preprocessor`?
-2. Mention the various `CSS frameworks`.
-3. What is `Responsive Design`?
-4. What is a `Mixin`?
+1. What is `Template Literals`? 
+2. What is `Spread Operator` and some example?
+3. What is a `Promise` and some example?
+4. What is `Destructuring Assignment`?
+### React - S
+1. How `React` works?
+2. How `Virtual-DOM` works?
+3. What is `JSX`?
+4. What is the difference between `State` and `Props`?
+5. What is `Component` lifecycle?(Initialization, Mounting, updating, Unmounting)
+6. What is the difference between `Component` and `Element`?
+7. What is the difference between `Component Container` and `Component Presentational`?
+8. What is `render()`?
+9. What is `PropTypes`?
+10. What is `SyntheticEvents`?
+11. What is `ErrorBoundary`?
+### Redux
+1. What is `Redux`?
+2. What are the core principles of `Redux`?
+3. Explain the components of `Redux`.(Action, Reducer, Store)
+4. What is `Redux DevTools`?
+5. How add `middlewares` in Redux?
+6. What is `Redux Thunk`?
+7. What is the difference between `mapStateToProps()` and `mapDispatchToProps()`?
+8. How to use `connect()` from Redux?
+9. How to dispatch an `action` on load?
+10. How to make `AJAX` request in Redux?
 ## Debugging - A
 - What are the tools used for debugging?
 ## Unit Test - A
 - Do you work with test environments and unit tests?
 - If `Yes`, What libraries, frameworks or tools did you work?
-- Did you hear about Static Code Analysis?
-- If `Yes`, How do you do a Static Code Analysis?
 ## Algorithms and Data structure - 
 https://repl.it/@irondev/exercise-1 - S
 https://repl.it/@irondev/exercise-2 - A
 https://repl.it/@irondev/exercise-3 - S
 ## Soft Skills
-### Analyze case - NO
-- When you have a project assigned which methods are you used to analyze cases?
 ### Self-sufficient - A
 - When you have an activity to perform you are self-sufficient or ask for help to resolve it?
 ### Search the information and directions to folks for resolve tickets - S
